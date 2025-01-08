@@ -1,0 +1,8 @@
+input banco: Itaú- / iti- / Santander-
+
+input compra: dia: - / produto: - / valor: - / saída: debito, crédito, pix / 	origem: investimento, conta corrente 
+
+input recebido: dia: - / valor: - / origem: -
+
+output: data de hj: - / valor do cartão de crédito: - / valor guardado em investimentos: - / valor em conta corrente: - /
+
